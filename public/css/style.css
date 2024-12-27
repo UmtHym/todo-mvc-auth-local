@@ -1,13 +1,15 @@
-h1{
-    color: red;
+.header {
+  color: purple;
 }
-.completed{
-    text-decoration: line-through;
-    color: gray;
+.completed {
+  color: gray;
 }
-.not{
+/* .not{
     text-decoration: underline;
-}
+} */
 .todoItem {
-    list-style-type: none;
+  list-style-type: none;
+}
+.pointer {
+  cursor: pointer;
 }
